@@ -20,29 +20,19 @@ This is a furniture website project built using **Express.js**, **Bootstrap**, a
 Follow these steps to run the project on your local machine:
 
 1. Clone the repository:
-   ```bash
    git clone <repository-url>
-   ```
 
 2. Navigate to the project directory:
-   ```bash
    cd furniture-project
-   ```
 
 3. Install the dependencies:
-   ```bash
    npm install
-   ```
 
 4. Start the server:
-   ```bash
    node app.js
-   ```
 
 5. Open the browser and go to:
-   ```
    http://localhost:3000
-   ```
 
 ## Project Structure
 
@@ -68,7 +58,6 @@ Follow these steps to run the project on your local machine:
 - **Contact Page (`/contact`)**: Allows users to contact the store.
 
 ## Screenshots
-
 ### Home Page:
 ![Home Page](public/Images/homepage.png)
 
@@ -79,8 +68,8 @@ Follow these steps to run the project on your local machine:
 
 Feel free to contribute to the project by submitting pull requests. Ensure your code follows the project structure and is well-documented.
 
-## License
 
+## License
 This project is licensed under the MIT License.
 
 ---

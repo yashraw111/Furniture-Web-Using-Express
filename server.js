@@ -141,11 +141,11 @@ const OfficeProducts = [
 ]
 
 const products2 = [
-  { id: 1, img: "Images/badroom.jpeg", title: "BedRoom" },
-  { id: 1, img: "Images/dining.jpeg", title: "living" },
-  { id: 1, img: "Images/lounge.jpeg", title: "Dining" },
-  { id: 1, img: "Images/ofi-chaire.jpeg", title: "Lounge" },
-  { id: 1, img: "Images/living.jpeg", title: "Office Chair" },
+  { id: 0, img: "Images/badroom.jpeg", title: "BedRoom" },
+  { id: 1, img: "Images/dining.jpeg", title: "Dining" },
+  { id: 2, img: "Images/lounge.jpeg", title: "Lounge" },
+  { id: 3, img: "Images/ofi-chaire.jpeg", title: "Office Chair" },
+  { id: 4, img: "Images/living.png", title: "living" },
 ];
 
 app.get("/", (req, res) => {
